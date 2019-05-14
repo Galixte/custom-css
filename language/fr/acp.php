@@ -39,7 +39,7 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, array(
-	'ACP_PHPBB_CUSTOMCSS_EXPLAIN'	=> 'Depuis cette page il est possible de modifier les fichiers CSS qui sont chargés sur chaque page. La plupart des utilisateurs utilisent ceci pour effectuer de petites modifications, telles que des ajustements cosmétiques et cec sans perdre les modifications apportées lors de chaque mise à jour de leurs styles.',
+	'ACP_PHPBB_CUSTOMCSS_EXPLAIN'	=> 'Depuis cette page il est possible de modifier les fichiers CSS qui sont chargés sur chaque page. La plupart des utilisateurs utilisent ceci pour effectuer de petites modifications, telles que des ajustements cosmétiques et ce sans perdre les modifications apportées lors de chaque mise à jour de leurs styles.',
 	'CUSTOM_CSS'					=> 'CSS personnalisée',
 	'CUSTOM_CSS_EXPLAIN'			=> 'Saisir ses règles CSS ici. Les modifications seront immédiatement prises en compte lors du prochain chargement des pages.',
 ));
